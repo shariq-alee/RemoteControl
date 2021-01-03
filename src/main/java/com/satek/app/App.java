@@ -6,7 +6,8 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * Hello world!
+ * Application Launch class.
+ * Contains main method.
  *
  */
 public class App 
